@@ -1,0 +1,26 @@
+html {
+  background-color: goldenrod;
+  padding: 10px;
+}
+
+body {
+  background-color: white;
+  width: 500px;
+  height: 200px;
+  margin: auto;
+  padding: 5px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+h1 {
+  cursor: default;
+}
+
+button {
+  cursor: pointer;
+}
+
+p {
+  cursor: default;
+}

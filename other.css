@@ -1,0 +1,7 @@
+body {
+  width: 400px;
+  padding: 250px;
+  margin: auto;
+  background: url("img/giphy.gif") fixed;
+  background-size: cover;
+}
